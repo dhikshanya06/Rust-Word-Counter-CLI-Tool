@@ -1,1 +1,2 @@
 # Rust-Word-Counter-CLI-Tool
+This Rust-based command-line application allows users to count words in a text file, user-inputted text, or generate a sample file for testing. It features an interactive menu for ease of use and can also be run directly with a file path as an argument. Designed for simplicity and efficiency, it's a great utility for practicing file I/O, user interaction, and basic string processing in Rust.
